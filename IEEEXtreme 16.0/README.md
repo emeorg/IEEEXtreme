@@ -9,8 +9,8 @@ IEEEXtreme es una competencia de programación en línea organizada por IEEE (In
 ## Tasks
 
 - **#1** [`Array`](https://csacademy.com/contest/ieeextreme-practice/task/array): Unsolved
-- **#2** [`Gaius Letters`](https://csacademy.com/contest/ieeextreme-practice/task/gaius-letters): Solved
-- **#3** [`Pizza Cutter`](https://csacademy.com/contest/ieeextreme-practice/task/pizza-cutter): Solved
+- **#2** [`Gaius Letters`](https://csacademy.com/contest/ieeextreme-practice/task/gaius-letters): Solved [[código](2%20-%20Gaius%20Letters/2.cpp)]
+- **#3** [`Pizza Cutter`](https://csacademy.com/contest/ieeextreme-practice/task/pizza-cutter): Solved [[código](3%20-%20Pizza%20Cutter/3.cpp)]
 - **#4** [`ASCII Dancer` ](https://csacademy.com/contest/ieeextreme-practice/task/ascii-dancer): Unsolved
 - **#5** [`Pipeline`](https://csacademy.com/contest/ieeextreme-practice/task/pipeline): Unsolved
 - **#6** [`ANDman`](https://csacademy.com/contest/ieeextreme-practice/task/andman): Unsolved
