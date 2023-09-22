@@ -44,8 +44,8 @@ int main() {
     			}else{
     				man[1][0] = '/';
     			}
-
-				if (aux_right_medium == ' '){
+    			
+    			if (aux_right_medium == ' '){
     				man[1][2] = ' ';
     			}else if (aux_right_medium == '<'){
     				man[1][2] = '>';
