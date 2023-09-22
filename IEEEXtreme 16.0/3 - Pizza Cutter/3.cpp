@@ -3,16 +3,18 @@ using namespace std;
 
 typedef long long ll;
 
+#define rep(i, n) for (int i = 0; i < (int)n; i++)
+
 int main(){
 	int t; cin >> t;
 	
-	for (int i = 0; i < t; ++i){
+	rep(i, t){
 		
 		ll N; cin >> N; if(N == 0){cout << 1 << endl; continue;}
 
 		set<int> set;
 		
-		for (int i = 0; i < N; ++i){
+		rep(j, N){
 			
 			ll D; cin >> D;
 

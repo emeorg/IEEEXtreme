@@ -1,0 +1,48 @@
+1
+40
+left hand to head
+right hand to hip
+say Hello
+left leg in
+right leg out
+turn
+say World
+left hand to head
+left leg out
+right leg in
+right hand to hip
+turn
+right hand to start
+left hand to start
+right hand to head
+left hand to hip
+left hand to start
+right leg in
+right hand to hip
+say This
+say is
+say a
+say test
+left hand to head
+right hand to hip
+say Hello
+left leg in
+right leg out
+turn
+say World
+left hand to head
+left leg out
+right leg in
+right hand to hip
+turn
+right hand to start
+left hand to start
+right hand to head
+left hand to hip
+left hand to start
+right leg in
+right hand to hip
+say This
+say is
+say a
+say test
