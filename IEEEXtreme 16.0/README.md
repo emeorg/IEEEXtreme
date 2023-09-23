@@ -1,11 +1,5 @@
 # IEEEXtreme 16.0
 
-¡Bienvenido al repositorio de IEEEXtreme 16.0!
-
-## Descripción
-
-IEEEXtreme es una competencia de programación en línea organizada por IEEE (Instituto de Ingenieros Eléctricos y Electrónicos). En la edición 16.0 de IEEEXtreme, los participantes se enfrentarán a un total de 25 tareas desafiantes que pondrán a prueba sus habilidades de programación y resolución de problemas.
-
 ## Tasks
 
 - **#1** [`Array`](https://csacademy.com/contest/ieeextreme-practice/task/array): Unsolved

@@ -13,7 +13,7 @@ Este repositorio tiene como objetivo principal albergar mis soluciones a los pro
 ## 3. Mi Participación en IEEEXtreme
 He participado en la siguiente edición de IEEEXtreme:
 
-- [IEEEXtreme 16.0 (2022)](IEEEXtreme%2016.0/README.md)
+- [IEEEXtreme 16.0](IEEEXtreme%2016.0/README.md) (2022)
 
 ## :email: Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [michelle.oliver.eme@gmail.com](mailto:michelle.oliver.eme@gmail.com).
