@@ -10,7 +10,7 @@
 ## 2. Purpose of the Repository
 This repository is primarily intended to house my solutions to the problems I have addressed to the IEEEXtreme problems I have participated in. It is also intended to serve as a resource for those who wish to study and prepare for the competition. Feel free to review the solutions, make suggestions, and contribute your own solutions.
 
-## 3. Mi Participación en IEEEXtreme
+## 3. My participation in IEEEXtreme
 I have participated in the next edition of IEEEXtreme:
 
 - [IEEEXtreme 16.0](IEEEXtreme%2016.0/README.md) (2022)

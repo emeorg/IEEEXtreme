@@ -10,7 +10,7 @@
 ## 2. Propósito del Repositorio
 Este repositorio tiene como objetivo principal albergar mis soluciones a los problemas que he abordado a los problemas de la IEEEXtreme que he participado. También está destinado a servir como un recurso para aquellos que deseen estudiar y prepararse para la competencia. Siéntete libre de revisar las soluciones, hacer sugerencias y contribuir con tus propias soluciones.
 
-## 3. Mi Participación en IEEEXtreme
+## 3. Mi participación en IEEEXtreme
 He participado en la siguiente edición de IEEEXtreme:
 
 - [IEEEXtreme 16.0](IEEEXtreme%2016.0/README.md) (2022)
