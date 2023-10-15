@@ -3,9 +3,9 @@
 ## Tasks
 
 - **#1** [`Array`](https://csacademy.com/contest/ieeextreme-practice/task/array): Unsolved
-- **#2** [`Gaius Letters`](https://csacademy.com/contest/ieeextreme-practice/task/gaius-letters): [[código](2%20-%20Gaius%20Letters/2.cpp)] [Test 5/5] :green_circle:
-- **#3** [`Pizza Cutter`](https://csacademy.com/contest/ieeextreme-practice/task/pizza-cutter): [[código](3%20-%20Pizza%20Cutter/3.cpp)] [Test 5/5] :green_circle:
-- **#4** [`ASCII Dancer` ](https://csacademy.com/contest/ieeextreme-practice/task/ascii-dancer): [[código](4%20-%20ASCII%20Dancer/4.cpp)] [Test 9/10] :orange_circle:
+- **#2** [`Gaius Letters`](https://csacademy.com/contest/ieeextreme-practice/task/gaius-letters): [[códe](2%20-%20Gaius%20Letters/2.cpp)] [Test 5/5] :green_circle:
+- **#3** [`Pizza Cutter`](https://csacademy.com/contest/ieeextreme-practice/task/pizza-cutter): [[códe](3%20-%20Pizza%20Cutter/3.cpp)] [Test 5/5] :green_circle:
+- **#4** [`ASCII Dancer` ](https://csacademy.com/contest/ieeextreme-practice/task/ascii-dancer): [[códe](4%20-%20ASCII%20Dancer/4.cpp)] [Test 9/10] :orange_circle:
 - **#5** [`Pipeline`](https://csacademy.com/contest/ieeextreme-practice/task/pipeline): Unsolved
 - **#6** [`ANDman`](https://csacademy.com/contest/ieeextreme-practice/task/andman): Unsolved
 - **#7** [`Dream Team`](https://csacademy.com/contest/ieeextreme-practice/task/dream-team): Unsolved
