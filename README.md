@@ -16,6 +16,6 @@ I have participated in the next edition of IEEEXtreme:
 - [IEEEXtreme 16.0](IEEEXtreme%2016.0/README.md) (2022)
 
 ## :email: Contact
-If you have any questions or suggestions, please don't hesitate to contact me through [michelle.oliver.eme@gmail.com](mailto:michelle.oliver.eme@gmail.com).
+If you have any questions or suggestions, please don't hesitate to contact me through [michelle.ramirez@emeorg.dev](mailto:michelle.ramirez@emeorg.dev) or [michelle.ramirez@mail.udp.cl](mailto:michelle.ramirez@mail.udp.cl).
 
 Thanks for visiting my repository and good luck in your preparation for the IEEEXtreme or other competitions! :star2:
